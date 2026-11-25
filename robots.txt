@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://drseyedrezafatemi.github.io/sitemap.xml
